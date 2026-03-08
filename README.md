@@ -107,5 +107,5 @@ fairness-in-stroke-prediction
 ## Author 
 Project developed as part of a university coursework on Trustworthy Machine Learning and Fairness in AI by Chiara Zara and Pavlína Křenková
 
-Project developed as part of a university coursework on **Trustworthy Machine Learning and Fairness in AI**.
+
 
